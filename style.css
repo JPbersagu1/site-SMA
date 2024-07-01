@@ -5,16 +5,29 @@
 
 body{
     background-color: #1E1F22;
+    margin: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .paragrafo{
     color: antiquewhite;
+    text-indent: 4em;
 }
 
+.paragrafo1{
+    color: antiquewhite;
+    text-align: center;
+}
 .titulo2{
     color: antiquewhite;
 }
 
 .ref{
     color: antiquewhite;
+}
+
+.container{
+    border-left: hsl(198, 11%, 65%) 5px solid;
+    padding: 10px;
 }

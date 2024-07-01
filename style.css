@@ -13,6 +13,7 @@ body{
 .paragrafo{
     color: antiquewhite;
     text-indent: 4em;
+    margin-bottom: 20px;
 }
 
 .paragrafo1{
@@ -31,4 +32,10 @@ body{
 .container{
     border-left: hsl(198, 11%, 65%) 5px solid;
     padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.link{
+    color: antiquewhite;
 }

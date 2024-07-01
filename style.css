@@ -1,11 +1,20 @@
 .titulo1{
     text-align: center;
+    color: antiquewhite;
 }
 
 body{
-    background-color: black;
+    background-color: #1E1F22;
 }
 
 .paragrafo{
+    color: antiquewhite;
+}
+
+.titulo2{
+    color: antiquewhite;
+}
+
+.ref{
     color: antiquewhite;
 }
